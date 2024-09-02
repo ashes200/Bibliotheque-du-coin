@@ -1,0 +1,39 @@
+{
+  "nom": "Ahuntsic",
+  "collection": [
+    {
+      "anEdition": 2013,
+      "nbCopies": 34,
+      "nbCopiesDisponible": 34,
+      "genre": "ROMAN",
+      "auteur": "isabelle quelque chose",
+      "code": "IQ-74C00-99",
+      "titre": "eux",
+      "categorie": "BD"
+    },
+    {
+      "anEdition": 2014,
+      "nbCopies": 3412,
+      "nbCopiesDisponible": 3412,
+      "genre": "ROMAN",
+      "auteur": "isabelle quelque chose",
+      "code": "IQ-D6970-92",
+      "titre": "nous",
+      "categorie": "BD"
+    },
+    {
+      "numEdition": 2,
+      "auteur": "jean-michele belgique",
+      "code": "JB-87EDF-F0",
+      "titre": "titntin au congo",
+      "categorie": "BD"
+    },
+    {
+      "numEdition": 1,
+      "auteur": "jean-michel belgique",
+      "code": "JB-9EB7B-D8",
+      "titre": "titntin au tibet",
+      "categorie": "BD"
+    }
+  ]
+}
